@@ -1,0 +1,36 @@
+body {
+    text-align: center;
+    font-family: Arial;
+}
+
+#interact {
+    display: flex;
+    align-items: center;
+}
+
+#count {
+    font-size: 50px;
+    margin-top: 50px;
+}
+
+button {
+    font-size: 40px;
+    color: white;
+    padding: 10px;
+    background: gray;
+    border-radius: 5px;
+}
+
+button:hover {
+    background: white;
+    color: gray;
+}
+
+#input {
+    font-size: 30px;
+    padding: 15px;
+    margin-top: -20px;
+    text-align: center;
+    border: 3px solid gray;
+    border-radius: 5px
+}
